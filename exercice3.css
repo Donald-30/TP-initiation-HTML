@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+#p2 {
+    font-weight: bold;
+}
+.par1 {
+    font-style: italic;
+}
+.list-item2 {
+    color: blue;
+}
+[class^="l"] {
+    background-color: yellow;
+}
+[class$="em3"] {
+    background-color: green;
+}

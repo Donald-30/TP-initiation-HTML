@@ -1,0 +1,14 @@
+body {
+    background-color: #D5C8D2;
+}
+.highlight {
+    color: blue;
+    font-weight: bold;
+}
+.special {
+    border: 2px solid;
+    background-color: gray;
+}
+#seul {
+    background-color: yellow;
+}
